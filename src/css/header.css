@@ -1,0 +1,17 @@
+.PageHeader {
+  border: 2px 2px 2px 2px solid;
+  border-color: black;
+}
+.wrapper {
+  display: flex;
+  justify-content: flex-start;
+}
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  gap: 40px;
+}
+.nav-items {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
